@@ -11,8 +11,7 @@
   "tasks": {
     "build": {
       "name": "build",
-      "command": "pnpm build",
-      "runAtStart": false
+      "command": "pnpm build"
     },
     "dev": {
       "name": "dev",
@@ -21,28 +20,23 @@
     },
     "generate": {
       "name": "generate",
-      "command": "pnpm generate",
-      "runAtStart": false
+      "command": "pnpm generate"
     },
     "preview": {
       "name": "preview",
-      "command": "pnpm preview",
-      "runAtStart": false
+      "command": "pnpm preview"
     },
     "postinstall": {
       "name": "postinstall",
-      "command": "pnpm postinstall",
-      "runAtStart": false
+      "command": "pnpm postinstall"
     },
     "lint": {
       "name": "lint",
-      "command": "pnpm lint",
-      "runAtStart": false
+      "command": "pnpm lint"
     },
     "typecheck": {
       "name": "typecheck",
-      "command": "pnpm typecheck",
-      "runAtStart": false
+      "command": "pnpm typecheck"
     }
   }
 }

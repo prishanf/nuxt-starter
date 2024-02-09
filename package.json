@@ -12,17 +12,13 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
-    "@iconify-json/heroicons": "^1.1.19",
     "@iconify-json/mdi": "^1.1.64",
-    "@iconify-json/simple-icons": "^1.1.90",
-    "@nuxt/ui": "2.13.0",
-    "nuxt": "^3.10.1"
+    "@nuxt/ui": "^2.13.0",
+    "nuxt": "^3.10.1",
+    "vue": "^3.4.15",
+    "vue-router": "^4.2.5"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "^0.2.0",
-    "eslint": "^8.56.0",
-    "vue-tsc": "^1.8.27",
-    "vue": "^3.4.10",
-    "vue-router": "^4.2.5"
+    "nuxt-icon": "^0.6.8"
   }
 }
